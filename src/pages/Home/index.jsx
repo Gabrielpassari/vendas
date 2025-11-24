@@ -3,7 +3,8 @@ import Categories from '../../components/Categories'
 import Card from '../../components/Card'
 import './Home.css'
 import { useState, useEffect } from 'react'
-import { getProducts } from '../../lib/API'
+import { getProducts } from '../../services/productService'
+
 
 export default function Page() {
     const [selectedBtn, setSelectedBtn] = useState('');
