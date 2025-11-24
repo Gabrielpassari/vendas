@@ -11,31 +11,6 @@
   .logo a {
     display: flex;
     align-items: center;
-    font-size: 28px;
-    font-weight: bold;
-    text-decoration: none;
-    gap: 2px;
-  }
-  
-  .logo1 {
-    color: #6e0ad6;
-    font-size: 32px;
-  }
-  
-  .logo2 {
-    color: #00a859;
-    font-size: 32px;
-    margin-bottom: 8px;
-  }
-  
-  .logo3 {
-    color: #ff7b00;
-    font-size: 32px;
-  }
-  
-  .logo {
-    margin-bottom: 24px;
-    display: flex;
     align-items: center;
     justify-content: center;
   }
